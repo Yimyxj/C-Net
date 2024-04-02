@@ -1,3 +1,5 @@
+This is the code of the manuscript titled "C-Net: A Compression-based Lightweight Network for Machine-Generated Text Detection"
+
 The overall framework of C-Net is shown in the figure![comression.png](comression.png)
 
 The portion of npz_gzip in this code is referenced in[ACL2023](https://aclanthology.org/2023.findings-acl.426/)
