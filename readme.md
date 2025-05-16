@@ -1,5 +1,6 @@
 We sincerely apologize for the error in our code repository, which resulted from a mistake on our part. The correct code link for the paper "Kill two birds with one stone: generalized and robust AI-generated text detection via dynamic perturbations" is as follows:
-https://github.com/CAU-ISS-Lab/AIGT-Detection-Evade-Detection/tree/main/DP-Net
+[DP-Net](https://github.com/CAU-ISS-Lab/AIGT-Detection-Evade-Detection/tree/main/DP-Net)
+
 We deeply regret any inconvenience this may have caused.
 
 ---
