@@ -1,3 +1,8 @@
+We sincerely apologize for the error in our code repository, which resulted from a mistake on our part. The correct code link for the paper "Kill two birds with one stone: generalized and robust AI-generated text detection via dynamic perturbations" is as follows:
+https://github.com/CAU-ISS-Lab/AIGT-Detection-Evade-Detection/tree/main/DP-Net
+We deeply regret any inconvenience this may have caused.
+
+---
 This is the code of the article titled ["C-Net: A Compression-based Lightweight Network for Machine-Generated Text Detection"](https://ieeexplore.ieee.org/document/10508945?source=authoralert)
 
 The overall framework of C-Net is shown in the figure![comression.png](comression.png)
